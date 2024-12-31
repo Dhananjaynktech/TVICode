@@ -1,0 +1,19 @@
+9/8/2021 3:52:15 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+9/8/2021 3:52:15 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+9/8/2021 3:52:46 PM---Messages--:Adding Success Factor: -------
+9/8/2021 3:53:03 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+9/8/2021 3:53:20 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+9/8/2021 3:53:20 PM---Messages--:Success Factor is added successfully: -------------------
+9/8/2021 3:59:45 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+9/8/2021 3:59:45 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+9/8/2021 4:00:22 PM---Messages--:Adding Success Factor: -------
+9/8/2021 4:00:26 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+9/8/2021 4:00:30 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+9/8/2021 4:00:31 PM---Messages--:Success Factor is added successfully: -------------------
+9/8/2021 4:09:12 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+9/8/2021 4:09:12 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+9/8/2021 4:09:13 PM---Messages--:Adding Success Factor: -------
+9/8/2021 4:09:13 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+9/8/2021 4:09:13 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+9/8/2021 4:09:13 PM---Messages--:Success Factor is added successfully: -------------------
+9/8/2021 4:09:14 PM---Messages--:Main: String was not recognized as a valid DateTime.Couldn't store <> in From Date-HBLBR Column.  Expected type is DateTime.

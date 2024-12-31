@@ -1,0 +1,50 @@
+12/15/2022 10:17:49 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+12/15/2022 10:17:49 AM---Messages--:Connected With   : Database :- TVI_PilotCompany
+12/15/2022 10:17:58 AM---Messages--:Start Deleting Top two row: --------2-----------
+12/15/2022 10:18:01 AM---Messages--:End Deleting Top two row: -------2------------
+12/15/2022 10:18:01 AM---Messages--:Start importing from Excel: --------3-----------
+12/15/2022 10:18:05 AM---Messages--:Start Move sucessfully after error: --------6-----------
+12/15/2022 10:20:33 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+12/15/2022 10:20:33 AM---Messages--:Connected With   : Database :- TVI_PilotCompany
+12/15/2022 10:20:33 AM---Messages--:Start Deleting Top two row: --------2-----------
+12/15/2022 10:20:35 AM---Messages--:End Deleting Top two row: -------2------------
+12/15/2022 10:20:35 AM---Messages--:Start importing from Excel: --------3-----------
+12/15/2022 10:20:40 AM---Messages--:Adding Success Factor: -------
+12/15/2022 10:20:43 AM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+12/15/2022 10:20:43 AM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+12/15/2022 10:20:43 AM---Messages--:Success Factor is added successfully: -------------------
+12/15/2022 10:20:43 AM---Messages--:Start Move from source: ---------4----------
+12/15/2022 10:20:43 AM---Messages--:Start Move sucessfully after import: --------5-----------
+12/15/2022 10:21:43 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+12/15/2022 10:21:43 AM---Messages--:Connected With   : Database :- TVI_PilotCompany
+12/15/2022 10:21:43 AM---Messages--:Start Deleting Top two row: --------2-----------
+12/15/2022 10:21:44 AM---Messages--:End Deleting Top two row: -------2------------
+12/15/2022 10:21:44 AM---Messages--:Start importing from Excel: --------3-----------
+12/15/2022 10:21:47 AM---Messages--:Adding Success Factor: -------
+12/15/2022 10:22:19 AM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+12/15/2022 10:22:19 AM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+12/15/2022 10:22:19 AM---Messages--:Success Factor is added successfully: -------------------
+12/15/2022 10:22:19 AM---Messages--:Start Move from source: ---------4----------
+12/15/2022 10:22:19 AM---Messages--:Start Move sucessfully after import: --------5-----------
+12/15/2022 10:23:52 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+12/15/2022 10:23:52 AM---Messages--:Connected With   : Database :- TVI_PilotCompany
+12/15/2022 10:23:52 AM---Messages--:Start Deleting Top two row: --------2-----------
+12/15/2022 10:23:53 AM---Messages--:End Deleting Top two row: -------2------------
+12/15/2022 10:23:53 AM---Messages--:Start importing from Excel: --------3-----------
+12/15/2022 10:23:55 AM---Messages--:Adding Success Factor: -------
+12/15/2022 10:24:28 AM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+12/15/2022 10:24:28 AM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+12/15/2022 10:24:28 AM---Messages--:Success Factor is added successfully: -------------------
+12/15/2022 10:24:28 AM---Messages--:Start Move from source: ---------4----------
+12/15/2022 10:24:28 AM---Messages--:Start Move sucessfully after import: --------5-----------
+12/15/2022 10:24:52 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+12/15/2022 10:24:52 AM---Messages--:Connected With   : Database :- TVI_PilotCompany
+12/15/2022 10:25:04 AM---Messages--:Start Deleting Top two row: --------2-----------
+12/15/2022 10:25:05 AM---Messages--:End Deleting Top two row: -------2------------
+12/15/2022 10:25:05 AM---Messages--:Start importing from Excel: --------3-----------
+12/15/2022 10:25:07 AM---Messages--:Adding Success Factor: -------
+12/15/2022 10:25:21 AM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+12/15/2022 10:25:22 AM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+12/15/2022 10:25:22 AM---Messages--:Success Factor is added successfully: -------------------
+12/15/2022 10:25:22 AM---Messages--:Start Move from source: ---------4----------
+12/15/2022 10:25:22 AM---Messages--:Start Move sucessfully after import: --------5-----------

@@ -1,0 +1,59 @@
+10/19/2020 9:29:30 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+10/19/2020 9:29:31 AM---Messages--:Connected With   : Database :- ZTest_03_08_2020_TVI_PilotCompany
+10/19/2020 9:33:04 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+10/19/2020 9:33:04 AM---Messages--:Connected With   : Database :- ZTest_03_08_2020_TVI_PilotCompany
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 39059: -------#####--Success Factor ID:- 1831--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 38885: -------#####--Success Factor ID:- 769--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 38879: -------#####--Success Factor ID:- 1415--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 39302: -------#####--Success Factor ID:- 1365--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 38822: -------#####--Success Factor ID:- 1823--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 38881: -------#####--Success Factor ID:- 396--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 38889: -------#####--Success Factor ID:- 1775--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 38591: -------#####--Success Factor ID:- 1638--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 39125: -------#####--Success Factor ID:- 1494--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 38875: -------#####--Success Factor ID:- 1222--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 39331: -------#####--Success Factor ID:- 1515--------
+10/19/2020 9:34:07 AM---Messages--:-#####--Claim ID:- 39355: -------#####--Success Factor ID:- 976--------
+10/19/2020 9:34:08 AM---Messages--:-#####--Claim ID:- 38930: -------#####--Success Factor ID:- 1695--------
+10/19/2020 9:34:08 AM---Messages--:-#####--Claim ID:- 38810: -------#####--Success Factor ID:- 1586--------
+10/19/2020 9:34:08 AM---Messages--:-#####--Claim ID:- 39391: -------#####--Success Factor ID:- 265--------
+10/19/2020 9:34:08 AM---Messages--:-#####--Claim ID:- 39287: -------#####--Success Factor ID:- 1688--------
+10/19/2020 9:34:08 AM---Messages--:-#####--Claim ID:- 38664: -------#####--Success Factor ID:- 526--------
+10/19/2020 9:34:08 AM---Messages--:-#####--Claim ID:- 38960: -------#####--Success Factor ID:- 1212--------
+10/19/2020 9:34:08 AM---Messages--:-#####--Claim ID:- 39109: -------#####--Success Factor ID:- 1814--------
+10/19/2020 9:34:08 AM---Messages--:-#####--Claim ID:- 39171: -------#####--Success Factor ID:- 1698--------
+10/19/2020 9:34:09 AM---Messages--:-#####--Claim ID:- 39357: -------#####--Success Factor ID:- 1324--------
+10/19/2020 9:34:09 AM---Messages--:-#####--Claim ID:- 39225: -------#####--Success Factor ID:- 521--------
+10/19/2020 9:34:09 AM---Messages--:-#####--Claim ID:- 39239: -------#####--Success Factor ID:- 1322--------
+10/19/2020 9:34:09 AM---Messages--:Adding Success Factor: -------
+10/19/2020 9:34:09 AM---Messages--:Success Factor is added successfully: -------------------
+10/19/2020 9:37:45 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+10/19/2020 9:37:45 AM---Messages--:Connected With   : Database :- ZTest_03_08_2020_TVI_PilotCompany
+10/19/2020 9:38:18 AM---Messages--:Main: Column 'Benefit Employee Claim ID-TAD' does not belong to table .
+10/19/2020 9:40:11 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+10/19/2020 9:40:11 AM---Messages--:Connected With   : Database :- TVI_PilotCompany
+10/19/2020 9:40:18 AM---Messages--:-#####--Claim ID:- 39059: -------#####--Success Factor ID:- 1831--------
+10/19/2020 9:40:18 AM---Messages--:-#####--Claim ID:- 38885: -------#####--Success Factor ID:- 769--------
+10/19/2020 9:40:18 AM---Messages--:-#####--Claim ID:- 38879: -------#####--Success Factor ID:- 1415--------
+10/19/2020 9:40:18 AM---Messages--:-#####--Claim ID:- 39302: -------#####--Success Factor ID:- 1365--------
+10/19/2020 9:40:18 AM---Messages--:-#####--Claim ID:- 38822: -------#####--Success Factor ID:- 1823--------
+10/19/2020 9:40:19 AM---Messages--:-#####--Claim ID:- 38881: -------#####--Success Factor ID:- 396--------
+10/19/2020 9:40:19 AM---Messages--:-#####--Claim ID:- 38889: -------#####--Success Factor ID:- 1775--------
+10/19/2020 9:40:19 AM---Messages--:-#####--Claim ID:- 38591: -------#####--Success Factor ID:- 1638--------
+10/19/2020 9:40:19 AM---Messages--:-#####--Claim ID:- 39125: -------#####--Success Factor ID:- 1494--------
+10/19/2020 9:40:19 AM---Messages--:-#####--Claim ID:- 38875: -------#####--Success Factor ID:- 1222--------
+10/19/2020 9:40:19 AM---Messages--:-#####--Claim ID:- 39331: -------#####--Success Factor ID:- 1515--------
+10/19/2020 9:40:19 AM---Messages--:-#####--Claim ID:- 39355: -------#####--Success Factor ID:- 976--------
+10/19/2020 9:40:19 AM---Messages--:-#####--Claim ID:- 38930: -------#####--Success Factor ID:- 1695--------
+10/19/2020 9:40:19 AM---Messages--:-#####--Claim ID:- 38810: -------#####--Success Factor ID:- 1586--------
+10/19/2020 9:40:20 AM---Messages--:-#####--Claim ID:- 39391: -------#####--Success Factor ID:- 265--------
+10/19/2020 9:40:20 AM---Messages--:-#####--Claim ID:- 39287: -------#####--Success Factor ID:- 1688--------
+10/19/2020 9:40:20 AM---Messages--:-#####--Claim ID:- 38664: -------#####--Success Factor ID:- 526--------
+10/19/2020 9:40:20 AM---Messages--:-#####--Claim ID:- 38960: -------#####--Success Factor ID:- 1212--------
+10/19/2020 9:40:20 AM---Messages--:-#####--Claim ID:- 39109: -------#####--Success Factor ID:- 1814--------
+10/19/2020 9:40:20 AM---Messages--:-#####--Claim ID:- 39171: -------#####--Success Factor ID:- 1698--------
+10/19/2020 9:40:20 AM---Messages--:-#####--Claim ID:- 39357: -------#####--Success Factor ID:- 1324--------
+10/19/2020 9:40:20 AM---Messages--:-#####--Claim ID:- 39225: -------#####--Success Factor ID:- 521--------
+10/19/2020 9:40:20 AM---Messages--:-#####--Claim ID:- 39239: -------#####--Success Factor ID:- 1322--------
+10/19/2020 9:40:20 AM---Messages--:Adding Success Factor: -------
+10/19/2020 9:40:21 AM---Messages--:Success Factor is added successfully: -------------------

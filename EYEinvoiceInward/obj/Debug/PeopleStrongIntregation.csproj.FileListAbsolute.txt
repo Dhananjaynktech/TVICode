@@ -1,0 +1,68 @@
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\PeopleStrongIntregation.exe.config
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\PeopleStrongIntregation.exe
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\PeopleStrongIntregation.pdb
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\DiffieHellman.dll
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Org.Mentalis.Security.dll
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Renci.SshNet.dll
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.License.dll
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.Pdf.dll
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.XLS.dll
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Tamir.SharpSSH.dll
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Renci.SshNet.xml
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.License.xml
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.Pdf.xml
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.XLS.xml
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.csproj.ResolveComReference.cache
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.Properties.Resources.resources
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.csproj.GenerateResource.Cache
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.exe
+D:\Dhananjay Development Code\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.pdb
+D:\Code and Back Up\TVIPL CODE BACK UP Date Wise\TVIPL Code BAck up 22 Feb 2023(Virus Attach)\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\PeopleStrongIntregation.exe.config
+D:\Code and Back Up\TVIPL CODE BACK UP Date Wise\TVIPL Code BAck up 22 Feb 2023(Virus Attach)\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Code and Back Up\TVIPL CODE BACK UP Date Wise\TVIPL Code BAck up 22 Feb 2023(Virus Attach)\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.csproj.ResolveComReference.cache
+D:\Code and Back Up\TVIPL CODE BACK UP Date Wise\TVIPL Code BAck up 22 Feb 2023(Virus Attach)\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.exe
+D:\Code and Back Up\TVIPL CODE BACK UP Date Wise\TVIPL Code BAck up 22 Feb 2023(Virus Attach)\Code\Testing Development\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.pdb
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.csproj.ResolveComReference.cache
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\EinvoicingOutward.exe.config
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\EinvoicingOutward.exe
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\EinvoicingOutward.pdb
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\DiffieHellman.dll
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Org.Mentalis.Security.dll
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Renci.SshNet.dll
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.License.dll
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.Pdf.dll
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.XLS.dll
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Tamir.SharpSSH.dll
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Renci.SshNet.xml
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.License.xml
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.Pdf.xml
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.XLS.xml
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.csprojResolveAssemblyReference.cache
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\EinvoicingOutward.Properties.Resources.resources
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.csproj.GenerateResource.Cache
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\EinvoicingOutward.exe
+D:\Code and Back Up\Services Code\PWCOutward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\EinvoicingOutward.pdb
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\EinvoicingOutward.exe.config
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.csproj.ResolveComReference.cache
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\EinvoicingOutward.exe
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\EinvoicingOutward.pdb
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\EinvoicingOutward.exe
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\EinvoicingOutward.pdb
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\DiffieHellman.dll
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Org.Mentalis.Security.dll
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Renci.SshNet.dll
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.License.dll
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.Pdf.dll
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.XLS.dll
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Tamir.SharpSSH.dll
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Renci.SshNet.xml
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.License.xml
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.Pdf.xml
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\Spire.XLS.xml
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.csprojResolveAssemblyReference.cache
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\EinvoicingOutward.Properties.Resources.resources
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\obj\Debug\PeopleStrongIntregation.csproj.GenerateResource.Cache
+D:\Code and Back Up\Services Code\PWCInward\PeopleStrongIntregation\PeopleStrongIntregation\bin\Debug\EinvoicingInward.exe.config

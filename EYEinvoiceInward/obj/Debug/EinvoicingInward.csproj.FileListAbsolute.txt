@@ -1,0 +1,62 @@
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\EinvoicingInward.exe.config
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.csproj.ResolveComReference.cache
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\EinvoicingInward.exe
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\EinvoicingInward.pdb
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\DiffieHellman.dll
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Org.Mentalis.Security.dll
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Renci.SshNet.dll
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.License.dll
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.Pdf.dll
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.XLS.dll
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Tamir.SharpSSH.dll
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Renci.SshNet.xml
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.License.xml
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.Pdf.xml
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.XLS.xml
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.Properties.Resources.resources
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.csproj.GenerateResource.Cache
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.exe
+D:\Code and Back Up\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.pdb
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\EinvoicingInward.exe.config
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\EinvoicingInward.exe
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\EinvoicingInward.pdb
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\DiffieHellman.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Org.Mentalis.Security.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Renci.SshNet.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.License.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.Pdf.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.XLS.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Tamir.SharpSSH.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Renci.SshNet.xml
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.License.xml
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.Pdf.xml
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\bin\Debug\Spire.XLS.xml
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\Interop.SAPbobsCOM.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.csproj.ResolveComReference.cache
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.Properties.Resources.resources
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.csproj.GenerateResource.cache
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.exe
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.pdb
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\PWCInward\EinvoiceInward\EinvoiceInward\obj\Debug\EinvoicingInward.csprojResolveAssemblyReference.cache
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\EYEinvoicingInward.exe.config
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\EYEinvoicingInward.exe
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\EYEinvoicingInward.pdb
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\DiffieHellman.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Org.Mentalis.Security.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Renci.SshNet.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Spire.License.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Spire.Pdf.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Spire.XLS.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Tamir.SharpSSH.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Renci.SshNet.xml
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Spire.License.xml
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Spire.Pdf.xml
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\bin\Debug\Spire.XLS.xml
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\obj\Debug\Interop.SAPbobsCOM.dll
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\obj\Debug\EinvoicingInward.csproj.ResolveComReference.cache
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\obj\Debug\EYEinvoicingInward.Properties.Resources.resources
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\obj\Debug\EinvoicingInward.csproj.GenerateResource.Cache
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\obj\Debug\EYEinvoicingInward.exe
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\obj\Debug\EYEinvoicingInward.pdb
+D:\OfficeData\OneDrive - Tower Vision India Pvt. Ltd\Services Code\EYInward\EYEinvoiceInward\EYEinvoiceInward\obj\Debug\EinvoicingInward.csprojResolveAssemblyReference.cache

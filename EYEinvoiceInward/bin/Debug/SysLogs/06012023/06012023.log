@@ -1,0 +1,22 @@
+1/6/2023 1:08:15 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/6/2023 1:08:15 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+1/6/2023 1:08:22 PM---Messages--:Start Deleting Top two row: --------2-----------
+1/6/2023 1:08:23 PM---Messages--:End Deleting Top two row: -------2------------
+1/6/2023 1:08:23 PM---Messages--:Start importing from Excel: --------3-----------
+1/6/2023 1:08:26 PM---Messages--:Adding Success Factor: -------
+1/6/2023 1:08:30 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/6/2023 1:08:30 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/6/2023 1:08:30 PM---Messages--:Success Factor is added successfully: -------------------
+1/6/2023 1:08:30 PM---Messages--:Start Move from source: ---------4----------
+1/6/2023 1:08:30 PM---Messages--:Start Move sucessfully after import: --------5-----------
+1/6/2023 1:09:26 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/6/2023 1:09:26 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+1/6/2023 1:09:32 PM---Messages--:Start Deleting Top two row: --------2-----------
+1/6/2023 1:09:34 PM---Messages--:End Deleting Top two row: -------2------------
+1/6/2023 1:09:34 PM---Messages--:Start importing from Excel: --------3-----------
+1/6/2023 1:09:36 PM---Messages--:Adding Success Factor: -------
+1/6/2023 1:09:39 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/6/2023 1:09:39 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/6/2023 1:09:39 PM---Messages--:Success Factor is added successfully: -------------------
+1/6/2023 1:09:39 PM---Messages--:Start Move from source: ---------4----------
+1/6/2023 1:09:39 PM---Messages--:Start Move sucessfully after import: --------5-----------

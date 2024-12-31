@@ -1,0 +1,136 @@
+1/19/2023 4:51:56 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 4:51:56 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 4:51:56 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 4:59:05 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 4:59:05 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 4:59:05 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 5:00:49 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 5:00:49 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 5:00:49 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 5:00:50 PM---Messages--:Error:- File move successfully:: *******<6.>*******
+1/19/2023 5:03:37 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 5:03:37 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 5:03:37 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 5:03:59 PM---Messages--:Error:- File move successfully:: *******<6.>*******
+1/19/2023 5:04:18 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 5:04:18 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 5:04:18 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 5:05:49 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 5:05:49 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 5:05:49 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 5:14:03 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 5:14:03 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 5:14:03 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 5:41:20 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 5:41:20 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 5:41:20 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 5:41:20 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/19/2023 5:41:22 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 5:42:04 PM---Messages--:Adding Success Factor: -------
+1/19/2023 5:42:05 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 5:42:05 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 5:42:05 PM---Messages--:Success Factor is added successfully: -------------------
+1/19/2023 5:42:10 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/19/2023 5:42:10 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/19/2023 5:46:06 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 5:46:06 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 5:46:06 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 5:46:06 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/19/2023 5:46:07 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 5:46:20 PM---Messages--:Adding Success Factor: -------
+1/19/2023 5:46:20 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 5:46:20 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 5:46:20 PM---Messages--:Success Factor is added successfully: -------------------
+1/19/2023 5:46:24 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/19/2023 5:46:24 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/19/2023 5:46:32 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 5:46:32 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 5:46:32 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 5:46:32 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/19/2023 5:46:34 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 5:58:58 PM---Messages--:Adding Success Factor: -------
+1/19/2023 5:59:10 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 5:59:47 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 5:59:47 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 5:59:47 PM---Messages--:Success Factor is added successfully: -------------------
+1/19/2023 5:59:47 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/19/2023 5:59:47 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/19/2023 6:00:13 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:00:13 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:00:13 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:00:13 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/19/2023 6:00:14 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 6:01:47 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:01:47 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:01:47 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:01:47 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/19/2023 6:01:49 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 6:03:49 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:03:49 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:03:49 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:03:49 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/19/2023 6:03:51 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 6:05:20 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:05:20 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:05:20 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:05:20 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/19/2023 6:05:44 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:05:44 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:05:44 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:05:44 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/19/2023 6:06:10 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:06:10 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:06:10 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:06:13 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/19/2023 6:14:17 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:14:17 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:14:17 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:15:33 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:15:33 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:15:33 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:15:33 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 6:15:44 PM---Messages--:Adding Success Factor: -------
+1/19/2023 6:16:12 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 6:16:13 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 6:16:13 PM---Messages--:Success Factor is added successfully: -------------------
+1/19/2023 6:16:13 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/19/2023 6:16:13 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/19/2023 6:16:21 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:16:21 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:16:21 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:16:21 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 6:17:37 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:17:37 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:17:37 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:17:37 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/HR & Admin/20221010/2049/121323/6D: -------#####--Employee ID:- 2049--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/HR & Admin/20221010/2049/121323/6D: -------#####--Employee ID:- 2049--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/HR & Admin/20221010/2049/121323/6D: -------#####--Employee ID:- 2049--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20221107/2049/124454/E3: -------#####--Employee ID:- 2049--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20221223/2049/144618/98: -------#####--Employee ID:- 2049--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20221223/2049/144618/98: -------#####--Employee ID:- 2049--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20230103/2049/151255/D1: -------#####--Employee ID:- 2049--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20221114/2084/160020/0D: -------#####--Employee ID:- 2084--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Gro/Operation and Maintenance/20221020/Dummy2/165930/3B: -------#####--Employee ID:- 1000--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Rel/HR & Admin/20220928/Dummy2/162741/1D: -------#####--Employee ID:- 1000--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/Operation and Maintenance/20221020/Dummy2/170917/39: -------#####--Employee ID:- 1000--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Tra/Operation and Maintenance/20221114/Dummy2/104018/65: -------#####--Employee ID:- 1000--------
+1/19/2023 6:17:59 PM---Messages--:-#####--Claim ID:- Hot/HR & Admin/20220930/Dummy4/113932/6D: -------#####--Employee ID:- 1001--------
+1/19/2023 6:17:59 PM---Messages--:Adding Success Factor: -------
+1/19/2023 6:18:12 PM---Messages--:Success Factor is added successfully: -------------------
+1/19/2023 6:18:12 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/19/2023 6:18:12 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/19/2023 6:22:47 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:22:47 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:22:47 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:22:47 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 6:25:16 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/19/2023 6:25:16 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/19/2023 6:25:16 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/19/2023 6:25:16 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/19/2023 6:26:01 PM---Messages--:Duplicate Data or No Data found: -------
+1/19/2023 6:26:02 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 6:26:02 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/19/2023 6:26:03 PM---Messages--:Success Factor is added successfully: -------------------
+1/19/2023 6:26:03 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/19/2023 6:26:03 PM---Messages--:Sending mail method call:         *******<5.>*******

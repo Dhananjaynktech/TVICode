@@ -1,0 +1,6 @@
+12-08-24 16:57:15---Messages--:****************************: ################NEW CONNECTION###############***********************
+12-08-24 16:57:15---Messages--:Connected With   : Database :- TVI_PilotCompany
+12-08-24 16:57:15---Messages--:****** START *******: Download file from SFTP Server         
+12-08-24 16:57:19---Messages--:*******FAILED: -GetFileFromRemortServer()*******: Error:- File move successfully:Object reference not set to an instance of an object.
+12-08-24 16:57:19---Messages--:****** START *******: File download completed         
+12-08-24 16:57:19---Messages--:*******START*******: Move file into SFTP server to Source folder

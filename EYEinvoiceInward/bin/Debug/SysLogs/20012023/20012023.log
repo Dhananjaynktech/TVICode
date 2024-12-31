@@ -1,0 +1,77 @@
+1/20/2023 10:52:44 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 10:52:44 AM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 10:52:44 AM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 10:52:44 AM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 12:01:28 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 12:01:28 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 12:01:28 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 12:01:28 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 12:01:29 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:29 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:29 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:29 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:29 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:29 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:29 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:30 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:30 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:30 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:30 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:30 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:30 PM---Messages--:ExecuteNonQuery: Conversion failed when converting date and/or time from character string.
+1/20/2023 12:01:30 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/20/2023 12:01:30 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/20/2023 12:02:16 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 12:02:16 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 12:02:16 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 12:02:16 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 12:10:25 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 12:10:25 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 12:10:25 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 12:10:25 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 12:10:28 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/20/2023 12:10:28 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/20/2023 12:30:30 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 12:30:30 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 12:30:30 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 12:30:30 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 12:30:36 PM---Messages--:ExecuteDataTable: Could not find stored procedure 'TVI_PilotCompany.dbo.UTL_GETEMPLOYEECLAIMDATA'.
+1/20/2023 12:32:22 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 12:32:22 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 12:32:22 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 12:32:22 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 12:33:19 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 12:33:19 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 12:33:19 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 12:33:19 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 12:35:47 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 12:35:47 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 12:35:47 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 12:35:47 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 12:36:19 PM---Messages--:-#####--Claim ID:- Tra/HR & Admin/20221010/2049/121323/6D: -------#####--Employee ID:- 2049--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Tra/HR & Admin/20221010/2049/121323/6D: -------#####--Employee ID:- 2049--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Tra/HR & Admin/20221010/2049/121323/6D: -------#####--Employee ID:- 2049--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20221107/2049/124454/E3: -------#####--Employee ID:- 2049--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20221223/2049/144618/98: -------#####--Employee ID:- 2049--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20221223/2049/144618/98: -------#####--Employee ID:- 2049--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20230103/2049/151255/D1: -------#####--Employee ID:- 2049--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20221114/2084/160020/0D: -------#####--Employee ID:- 2084--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Gro/Operation and Maintenance/20221020/Dummy2/165930/3B: -------#####--Employee ID:- Dummy2--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Rel/HR & Admin/20220928/Dummy2/162741/1D: -------#####--Employee ID:- Dummy2--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Tra/Operation and Maintenance/20221020/Dummy2/170917/39: -------#####--Employee ID:- Dummy2--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Tra/Operation and Maintenance/20221114/Dummy2/104018/65: -------#####--Employee ID:- Dummy2--------
+1/20/2023 12:36:20 PM---Messages--:-#####--Claim ID:- Hot/HR & Admin/20220930/Dummy4/113932/6D: -------#####--Employee ID:- Dummy4--------
+1/20/2023 12:36:20 PM---Messages--:Adding Success Factor: -------
+1/20/2023 12:36:33 PM---Messages--:Success Factor is added successfully: -------------------
+1/20/2023 12:36:33 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/20/2023 12:36:33 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/20/2023 12:48:16 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 12:48:16 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 12:48:16 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 12:48:16 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 5:18:29 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/20/2023 5:18:29 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/20/2023 5:18:29 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/20/2023 5:18:35 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/20/2023 5:18:35 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/20/2023 5:18:35 PM---Messages--:Sending mail method call:         *******<5.>*******

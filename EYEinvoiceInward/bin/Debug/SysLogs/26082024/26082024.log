@@ -1,0 +1,7 @@
+26-08-24 12:50:15---Messages--:****************************: ################NEW CONNECTION###############***********************
+26-08-24 12:50:15---Messages--:Connected With   : Database :- TVI_PilotCompany
+26-08-24 12:50:15---Messages--:****** START *******: Download file from SFTP Server         
+26-08-24 12:51:05---Messages--:****** START *******: File download completed         
+26-08-24 12:51:05---Messages--:*******START*******: Move file into SFTP server to Source folder
+26-08-24 12:51:26---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+26-08-24 12:51:26---Messages--:*******END*******: Move file into SFTP server to Source folder

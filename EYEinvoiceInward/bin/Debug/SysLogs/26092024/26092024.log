@@ -1,0 +1,20 @@
+26-09-24 12:00:55---Messages--:****************************: ################NEW CONNECTION###############***********************
+26-09-24 12:00:55---Messages--:Connected With   : Database :- TVI_PilotCompany
+26-09-24 12:00:55---Messages--:****** START *******: Download file from SFTP Server         
+26-09-24 16:35:11---Messages--:****************************: ################NEW CONNECTION###############***********************
+26-09-24 16:35:11---Messages--:Connected With   : Database :- TVI_PilotCompany
+26-09-24 16:35:11---Messages--:****** START *******: Download file from SFTP Server         
+26-09-24 16:35:34---Messages--:****** END *******: File download completed         
+26-09-24 16:35:34---Messages--:*******START*******: Move file into SFTP server to Source folder
+26-09-24 16:35:38---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+26-09-24 16:35:38---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_EWB_B1_26092024153201_ERR.csv
+26-09-24 16:35:39---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_EWB_B1_26092024153201_PSD.csv
+26-09-24 16:35:39---Messages--:*******END*******: Move file into SFTP server to Source folder
+26-09-24 17:49:52---Messages--:****************************: ################NEW CONNECTION###############***********************
+26-09-24 17:49:52---Messages--:Connected With   : Database :- TVI_PilotCompany
+26-09-24 17:49:52---Messages--:****** START *******: Download file from SFTP Server         
+26-09-24 17:50:15---Messages--:****** END *******: File download completed         
+26-09-24 17:50:15---Messages--:*******START*******: Move file into SFTP server to Source folder
+26-09-24 17:50:33---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+26-09-24 17:50:34---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_26092024174228_PSD.csv
+26-09-24 17:50:34---Messages--:*******END*******: Move file into SFTP server to Source folder

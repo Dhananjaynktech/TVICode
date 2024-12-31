@@ -1,0 +1,52 @@
+23-08-24 11:33:23---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 11:33:23---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 11:33:23---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 11:34:32---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 11:34:32---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 11:34:32---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 11:35:18---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 11:35:18---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 11:35:18---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 11:38:09---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 11:38:09---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 11:38:09---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 11:38:57---Messages--:****** START *******: File download completed         
+23-08-24 11:38:58---Messages--:*******START*******: Move file into SFTP server to Source folder
+23-08-24 11:41:30---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 11:41:30---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 11:41:30---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 11:42:05---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+23-08-24 11:43:12---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 11:43:12---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 11:43:12---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 11:43:14---Messages--:****** START *******: File download completed         
+23-08-24 11:43:14---Messages--:*******START*******: Move file into SFTP server to Source folder
+23-08-24 11:43:35---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+23-08-24 11:46:40---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 11:46:40---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 11:46:40---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 11:46:44---Messages--:****** START *******: File download completed         
+23-08-24 11:46:44---Messages--:*******START*******: Move file into SFTP server to Source folder
+23-08-24 11:46:57---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+23-08-24 11:47:28---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 11:47:28---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 11:47:28---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 11:47:30---Messages--:****** START *******: File download completed         
+23-08-24 11:47:30---Messages--:*******START*******: Move file into SFTP server to Source folder
+23-08-24 11:47:34---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+23-08-24 12:12:04---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 12:12:04---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 12:12:04---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 12:12:07---Messages--:****** START *******: File download completed         
+23-08-24 12:12:07---Messages--:*******START*******: Move file into SFTP server to Source folder
+23-08-24 12:12:13---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+23-08-24 12:12:30---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+23-08-24 12:12:30---Messages--:*******END*******: Move file into SFTP server to Source folder
+23-08-24 12:13:00---Messages--:****************************: ################NEW CONNECTION###############***********************
+23-08-24 12:13:00---Messages--:Connected With   : Database :- TVI_PilotCompany
+23-08-24 12:13:00---Messages--:****** START *******: Download file from SFTP Server         
+23-08-24 12:13:32---Messages--:****** START *******: File download completed         
+23-08-24 12:13:32---Messages--:*******START*******: Move file into SFTP server to Source folder
+23-08-24 12:13:37---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+23-08-24 12:13:39---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+23-08-24 12:13:39---Messages--:*******END*******: Move file into SFTP server to Source folder

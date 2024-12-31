@@ -1,0 +1,102 @@
+11-11-24 14:58:16---Messages--:: 
+11-11-24 14:58:16---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 14:58:16---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 14:58:16---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 15:01:43---Messages--:: 
+11-11-24 15:01:43---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 15:01:43---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 15:01:43---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 15:04:31---Messages--:: 
+11-11-24 15:04:31---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 15:04:31---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 15:04:31---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 15:06:05---Messages--:*********END***********: File download completed         
+11-11-24 15:06:05---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 15:06:08---Messages--:*********END***********: Move file into SFTP server to Source folder
+11-11-24 15:28:11---Messages--:: 
+11-11-24 15:28:11---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 15:28:11---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 15:28:11---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 15:29:36---Messages--:*********END***********: File download completed         
+11-11-24 15:29:36---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 15:29:38---Messages--:*********END***********: Move file into SFTP server to Source folder
+11-11-24 15:30:58---Messages--:: 
+11-11-24 15:30:58---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 15:30:58---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 15:30:58---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 15:31:32---Messages--:*********END***********: File download completed         
+11-11-24 15:31:32---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 15:32:56---Messages--:******#  ERROR1 #*******:-No such file: ******File Name  :ISR_Details_SAP_EWB_B1_06112024140139_PSD.csv
+11-11-24 15:33:35---Messages--:******#  ERROR1 #*******:-No such file: ******File Name  :ISR_Details_SAP_EWB_B1_06112024143038_PSD.csv
+11-11-24 15:33:35---Messages--:*********END***********: Move file into SFTP server to Source folder
+11-11-24 15:37:05---Messages--:: 
+11-11-24 15:37:05---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 15:37:05---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 15:37:05---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 15:37:31---Messages--:*********END***********: File download completed         
+11-11-24 15:37:31---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 15:38:43---Messages--:******#  Duplicate file deleted #*******:-SFTP_ROOT/INTG_OUTBOUND/OUTWARD//Name ISR_Details_SAP_EWB_B1_061120241430071_ERR.csv, Length 406, User ID -1, Group ID -1, Accessed 11-11-24 15:36:56, Modified 11-11-24 15:36:56: ******File Name  :ISR_Details_SAP_EWB_B1_061120241430071_ERR.csv
+11-11-24 15:39:06---Messages--:******#  ERROR1 #*******:-No such file: ******File Name  :ISR_Details_SAP_EWB_B1_061120241430261_PSD.csv
+11-11-24 15:39:12---Messages--:*********END***********: Move file into SFTP server to Source folder
+11-11-24 17:08:55---Messages--:: 
+11-11-24 17:08:55---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 17:08:55---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 17:08:55---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 17:08:55---Messages--:*********END***********: File download completed         
+11-11-24 17:08:55---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 17:10:52---Messages--:: 
+11-11-24 17:10:52---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 17:10:52---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 17:10:52---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 17:11:13---Messages--:*********END***********: File download completed         
+11-11-24 17:11:13---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 17:13:38---Messages--:: 
+11-11-24 17:13:38---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 17:13:38---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 17:13:38---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 17:13:46---Messages--:*********END***********: File download completed         
+11-11-24 17:13:46---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 17:15:09---Messages--:: 
+11-11-24 17:15:09---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 17:15:09---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 17:15:09---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 17:15:32---Messages--:*********END***********: File download completed         
+11-11-24 17:15:32---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 17:22:53---Messages--:: 
+11-11-24 17:22:53---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 17:22:53---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 17:22:53---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 17:23:16---Messages--:*********END***********: File download completed         
+11-11-24 17:23:16---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 17:28:10---Messages--:: 
+11-11-24 17:28:10---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 17:28:10---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 17:28:10---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 17:28:36---Messages--:*********END***********: File download completed         
+11-11-24 17:28:36---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 17:43:37---Messages--:: 
+11-11-24 17:43:37---Messages--:****************************: ################NEW CONNECTION###############***********************
+11-11-24 17:43:37---Messages--:Connected With Database: : TVI_PilotCompany
+11-11-24 17:43:37---Messages--:*********START*********: Download file from SFTP Server         
+11-11-24 17:44:05---Messages--:*********END***********: File download completed         
+11-11-24 17:44:05---Messages--:*********START*********: Move file into SFTP server to Source folder
+11-11-24 17:45:16---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_B1_11112024170258_PSD.csv
+11-11-24 17:45:25---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_B1_11112024170321_PSD.csv
+11-11-24 17:45:34---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024164828_PSD.csv
+11-11-24 17:45:34---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024164911_PSD.csv
+11-11-24 17:45:34---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024164938_PSD.csv
+11-11-24 17:45:35---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024164952_PSD.csv
+11-11-24 17:45:35---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024171036_PSD.csv
+11-11-24 17:45:35---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024171044_PSD.csv
+11-11-24 17:45:36---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024171716_PSD.csv
+11-11-24 17:45:36---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024171748_PSD.csv
+11-11-24 17:45:36---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024171808_PSD.csv
+11-11-24 17:45:36---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024171818_PSD.csv
+11-11-24 17:45:37---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024171826_PSD.csv
+11-11-24 17:45:37---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024171833_PSD.csv
+11-11-24 17:45:37---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024172235_PSD.csv
+11-11-24 17:45:38---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024172252_PSD.csv
+11-11-24 17:45:38---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024173045_PSD.csv
+11-11-24 17:45:38---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024173533_PSD.csv
+11-11-24 17:45:39---Messages--:*******File Move*******: file moved to SFTP Archived folder:-ISR_Details_SAP_EWB_B1_11112024173554_PSD.csv
+11-11-24 17:45:39---Messages--:*********END***********: Move file into SFTP server to Source folder

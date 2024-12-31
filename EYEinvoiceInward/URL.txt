@@ -1,0 +1,2 @@
+http://www.sms19.com/ComposeSMS.aspx?username=username&password=password&sender=senderid
+&to=recipient&message=Message&priority=1&dnd=1&unicode=0

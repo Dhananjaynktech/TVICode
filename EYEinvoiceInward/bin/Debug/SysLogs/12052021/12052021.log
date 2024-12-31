@@ -1,0 +1,103 @@
+5/12/2021 6:47:25 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 6:47:25 PM---Messages--:Connected With   : Database :- ZTVI_TestCompany
+5/12/2021 6:59:29 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 6:59:29 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+5/12/2021 7:00:28 PM---Messages--:Adding Success Factor: -------
+5/12/2021 7:00:31 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+5/12/2021 7:00:33 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+5/12/2021 7:00:33 PM---Messages--:Success Factor is added successfully: -------------------
+5/12/2021 7:05:09 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 7:05:09 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+5/12/2021 7:12:12 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 7:12:12 PM---Messages--:Connected With   : Database :- ZTVI_TestCompany
+5/12/2021 7:17:42 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 7:17:42 PM---Messages--:Connected With   : Database :- ZTVI_TestCompany
+5/12/2021 8:20:06 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 8:20:06 PM---Messages--:Connected With   : Database :- ZTVI_TestCompany
+5/12/2021 8:26:14 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 8:26:14 PM---Messages--:Connected With   : Database :- ZTVI_TestCompany
+5/12/2021 8:41:36 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 8:41:36 PM---Messages--:Connected With   : Database :- ZTVI_TestCompany
+5/12/2021 9:06:24 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 9:06:24 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+5/12/2021 9:17:04 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 9:17:04 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+5/12/2021 9:24:24 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+5/12/2021 9:24:24 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+5/12/2021 9:25:03 PM---Messages--:-#####--Claim ID:- 51585: -------#####--Success Factor ID:- 1484--------
+5/12/2021 9:25:03 PM---Messages--:-#####--Claim ID:- 51495: -------#####--Success Factor ID:- 1689--------
+5/12/2021 9:25:03 PM---Messages--:-#####--Claim ID:- 51477: -------#####--Success Factor ID:- 1689--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51481: -------#####--Success Factor ID:- 1854--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51479: -------#####--Success Factor ID:- 1854--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51471: -------#####--Success Factor ID:- 1854--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51467: -------#####--Success Factor ID:- 1854--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51454: -------#####--Success Factor ID:- 1596--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51450: -------#####--Success Factor ID:- 1596--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51429: -------#####--Success Factor ID:- 1596--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51427: -------#####--Success Factor ID:- 1596--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51423: -------#####--Success Factor ID:- 1596--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 48681: -------#####--Success Factor ID:- 1596--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 49767: -------#####--Success Factor ID:- 1596--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51379: -------#####--Success Factor ID:- 1355--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51315: -------#####--Success Factor ID:- 1761--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51312: -------#####--Success Factor ID:- 1761--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51310: -------#####--Success Factor ID:- 1761--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51229: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51227: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51226: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51222: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51223: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51209: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51208: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51207: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51205: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51206: -------#####--Success Factor ID:- 1838--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51183: -------#####--Success Factor ID:- 1400--------
+5/12/2021 9:25:04 PM---Messages--:-#####--Claim ID:- 51181: -------#####--Success Factor ID:- 1400--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51179: -------#####--Success Factor ID:- 1400--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51167: -------#####--Success Factor ID:- 1400--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51140: -------#####--Success Factor ID:- 1701--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51138: -------#####--Success Factor ID:- 1701--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51111: -------#####--Success Factor ID:- 1857--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51103: -------#####--Success Factor ID:- 1824--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51097: -------#####--Success Factor ID:- 1824--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51095: -------#####--Success Factor ID:- 1824--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51069: -------#####--Success Factor ID:- 1519--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51021: -------#####--Success Factor ID:- 1529--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 51018: -------#####--Success Factor ID:- 1529--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50521: -------#####--Success Factor ID:- 1529--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50519: -------#####--Success Factor ID:- 1529--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50728: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50739: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50733: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50732: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50731: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50738: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50737: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50736: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50735: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50730: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50729: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50734: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50711: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50713: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50712: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50707: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50706: -------#####--Success Factor ID:- 498--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50669: -------#####--Success Factor ID:- 1524--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50665: -------#####--Success Factor ID:- 1524--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50618: -------#####--Success Factor ID:- 1373--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50614: -------#####--Success Factor ID:- 1373--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50605: -------#####--Success Factor ID:- 1242--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50606: -------#####--Success Factor ID:- 1242--------
+5/12/2021 9:25:05 PM---Messages--:-#####--Claim ID:- 50597: -------#####--Success Factor ID:- 1242--------
+5/12/2021 9:25:06 PM---Messages--:-#####--Claim ID:- 50594: -------#####--Success Factor ID:- 1242--------
+5/12/2021 9:25:06 PM---Messages--:-#####--Claim ID:- 49382: -------#####--Success Factor ID:- 1803--------
+5/12/2021 9:25:06 PM---Messages--:-#####--Claim ID:- 50242: -------#####--Success Factor ID:- 1735--------
+5/12/2021 9:25:06 PM---Messages--:-#####--Claim ID:- 50240: -------#####--Success Factor ID:- 1735--------
+5/12/2021 9:25:06 PM---Messages--:-#####--Claim ID:- 50117: -------#####--Success Factor ID:- 1711--------
+5/12/2021 9:25:06 PM---Messages--:-#####--Claim ID:- 50116: -------#####--Success Factor ID:- 1711--------
+5/12/2021 9:25:06 PM---Messages--:-#####--Claim ID:- 50110: -------#####--Success Factor ID:- 1711--------
+5/12/2021 9:25:06 PM---Messages--:-#####--Claim ID:- 50108: -------#####--Success Factor ID:- 1711--------
+5/12/2021 9:25:06 PM---Messages--:Adding Success Factor: -------
+5/12/2021 9:25:18 PM---Messages--:Success Factor is added successfully: -------------------

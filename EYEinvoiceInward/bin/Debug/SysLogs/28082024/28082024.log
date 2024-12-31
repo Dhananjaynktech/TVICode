@@ -1,0 +1,42 @@
+28-08-24 14:18:50---Messages--:****************************: ################NEW CONNECTION###############***********************
+28-08-24 14:18:50---Messages--:Connected With   : Database :- TVI_PilotCompany
+28-08-24 14:18:50---Messages--:****** START *******: Download file from SFTP Server         
+28-08-24 14:19:13---Messages--:****** START *******: File download completed         
+28-08-24 14:19:13---Messages--:*******START*******: Move file into SFTP server to Source folder
+28-08-24 14:19:17---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+28-08-24 14:19:34---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+28-08-24 14:19:34---Messages--:*******END*******: Move file into SFTP server to Source folder
+28-08-24 17:44:08---Messages--:****************************: ################NEW CONNECTION###############***********************
+28-08-24 17:44:08---Messages--:Connected With   : Database :- TVI_PilotCompany
+28-08-24 17:44:08---Messages--:****** START *******: Download file from SFTP Server         
+28-08-24 17:45:08---Messages--:****** START *******: File download completed         
+28-08-24 17:45:08---Messages--:*******START*******: Move file into SFTP server to Source folder
+28-08-24 17:45:16---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+28-08-24 17:45:16---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_14082024181427_ERR.csv
+28-08-24 17:45:16---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_23082024115141_PSD.csv
+28-08-24 17:45:17---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_23082024115536_PSD.csv
+28-08-24 17:45:17---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_23082024145031_ERR.csv
+28-08-24 17:45:17---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_27082024112615_PSD.csv
+28-08-24 17:45:17---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_27082024124612_PSD.csv
+28-08-24 17:45:17---Messages--:*******END*******: Move file into SFTP server to Source folder
+28-08-24 17:49:13---Messages--:****************************: ################NEW CONNECTION###############***********************
+28-08-24 17:49:13---Messages--:Connected With   : Database :- TVI_PilotCompany
+28-08-24 17:49:13---Messages--:****** START *******: Download file from SFTP Server         
+28-08-24 17:50:20---Messages--:****** START *******: File download completed         
+28-08-24 17:50:21---Messages--:*******START*******: Move file into SFTP server to Source folder
+28-08-24 17:55:38---Messages--:****************************: ################NEW CONNECTION###############***********************
+28-08-24 17:55:38---Messages--:Connected With   : Database :- TVI_PilotCompany
+28-08-24 17:55:38---Messages--:****** START *******: Download file from SFTP Server         
+28-08-24 19:00:26---Messages--:****************************: ################NEW CONNECTION###############***********************
+28-08-24 19:00:26---Messages--:Connected With   : Database :- TVI_PilotCompany
+28-08-24 19:00:26---Messages--:****** START *******: Download file from SFTP Server         
+28-08-24 19:01:47---Messages--:****************************: ################NEW CONNECTION###############***********************
+28-08-24 19:01:47---Messages--:Connected With   : Database :- TVI_PilotCompany
+28-08-24 19:01:47---Messages--:****** START *******: Download file from SFTP Server         
+28-08-24 19:01:54---Messages--:****** START *******: File download completed         
+28-08-24 19:01:54---Messages--:*******START*******: Move file into SFTP server to Source folder
+28-08-24 19:01:57---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-EINV_IRN_JSON
+28-08-24 19:01:57---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_14082024181427_ERR.csv
+28-08-24 19:01:57---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_16082024135255_ERR.csv
+28-08-24 19:01:57---Messages--:*******File Move*******: Move file into SFTP server to Source folder file Name:-ISR_Details_SAP_B1_20082024162204_ERR.csv
+28-08-24 19:01:57---Messages--:*******END*******: Move file into SFTP server to Source folder

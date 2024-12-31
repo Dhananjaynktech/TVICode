@@ -1,0 +1,20 @@
+1/15/2021 10:50:39 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/15/2021 10:50:39 AM---Messages--:Connected With   : Database :- Z_TEST_Company_31_10_2020
+1/15/2021 10:51:07 AM---Messages--:-#####--Claim ID:- 45264: -------#####--Success Factor ID:- DT042--------
+1/15/2021 10:51:07 AM---Messages--:-#####--Claim ID:- 45260: -------#####--Success Factor ID:- DT042--------
+1/15/2021 10:51:09 AM---Messages--:-#####--Claim ID:- 45262: -------#####--Success Factor ID:- DT042--------
+1/15/2021 10:51:18 AM---Messages--:-#####--Claim ID:- 44173: -------#####--Success Factor ID:- DT099--------
+1/15/2021 10:51:18 AM---Messages--:Adding Success Factor: -------
+1/15/2021 10:51:18 AM---Messages--:ExecuteDataSet: Violation of PRIMARY KEY constraint 'KTVI_EXP1_PR'. Cannot insert duplicate key in object 'dbo.@TVI_EXP1'. The duplicate key value is (9019, 1).
+The statement has been terminated.
+1/15/2021 10:51:18 AM---Messages--:Success Factor is added successfully: -------------------
+1/15/2021 10:58:27 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/15/2021 10:58:27 AM---Messages--:Connected With   : Database :- Z_TEST_Company_31_10_2020
+1/15/2021 10:58:40 AM---Messages--:-#####--Claim ID:- 45264: -------#####--Success Factor ID:- DT042--------
+1/15/2021 10:58:40 AM---Messages--:-#####--Claim ID:- 45260: -------#####--Success Factor ID:- DT042--------
+1/15/2021 10:58:40 AM---Messages--:-#####--Claim ID:- 45262: -------#####--Success Factor ID:- DT042--------
+1/15/2021 10:58:40 AM---Messages--:-#####--Claim ID:- 44173: -------#####--Success Factor ID:- DT099--------
+1/15/2021 10:58:40 AM---Messages--:Adding Success Factor: -------
+1/15/2021 10:58:40 AM---Messages--:Success Factor is added successfully: -------------------
+1/15/2021 11:06:13 AM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/15/2021 11:06:13 AM---Messages--:Connected With   : Database :- Z_TEST_Company_31_10_2020

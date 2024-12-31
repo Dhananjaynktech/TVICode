@@ -1,0 +1,5 @@
+17-05-24 17:53:19---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-05-24 17:53:19---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-05-24 17:53:19---Messages--:****** START *******: Download file from SFTP Server         
+17-05-24 17:53:40---Messages--:*******START*******: Move file into SFTP server to Source folder
+17-05-24 17:54:01---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******

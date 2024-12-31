@@ -1,0 +1,4 @@
+IF (SELECT Count(*) FROM dbo.sysobjects where id = object_id('[dbo].[Documents]')) = 0     
+BEGIN    
+CREATE TABLE Documents (SNo INT IDENTITY (1, 1), DocKey VARCHAR(1000), ObjType VARCHAR(80), TransType VARCHAR(10), Considered VARCHAR(1))    
+END

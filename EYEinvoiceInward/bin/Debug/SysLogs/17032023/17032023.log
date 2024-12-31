@@ -1,0 +1,48 @@
+17-03-2023 10:20:19---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 10:20:19---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 10:20:19---Messages--:Download file from SFTP Server:              *******<1.>*******
+17-03-2023 10:27:10---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 10:27:10---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 10:27:10---Messages--:Download file from SFTP Server:              *******<1.>*******
+17-03-2023 10:31:26---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 10:31:26---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 10:31:26---Messages--:Download file from SFTP Server:              *******<1.>*******
+17-03-2023 10:33:04---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 10:33:04---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 10:33:04---Messages--:Download file from SFTP Server:              *******<1.>*******
+17-03-2023 10:33:53---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+17-03-2023 10:33:53---Messages--:Read CSV file and insert data into temp table:    *******<3.>*******
+17-03-2023 10:33:53---Messages--:Import data in database table from excel:         *******<4.>*******
+17-03-2023 10:33:53---Messages--:Success:- File move successfully: *******<5.>*******
+17-03-2023 10:33:53---Messages--:Sending mail method call:         *******<6.>*******
+17-03-2023 10:35:04---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 10:35:04---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 10:35:04---Messages--:Download file from SFTP Server:              *******<1.>*******
+17-03-2023 10:35:06---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+17-03-2023 10:36:16---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 10:36:16---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 10:36:16---Messages--:Download file from SFTP Server:              *******<1.>*******
+17-03-2023 10:36:20---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+17-03-2023 10:40:41---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 10:40:41---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 10:40:41---Messages--:Download file from SFTP Server:              *******<1.>*******
+17-03-2023 10:40:41---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+17-03-2023 10:41:09---Messages--:Read CSV file and insert data into temp table:    *******<3.>*******
+17-03-2023 10:41:09---Messages--:Import data in database table from excel:         *******<4.>*******
+17-03-2023 10:41:09---Messages--:Success:- File move successfully: *******<5.>*******
+17-03-2023 10:41:09---Messages--:Sending mail method call:         *******<6.>*******
+17-03-2023 10:47:46---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 10:47:46---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 10:47:46---Messages--:Download file from SFTP Server:              *******<1.>*******
+17-03-2023 10:47:46---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+17-03-2023 10:47:51---Messages--:Read CSV file and insert data into temp table:    *******<3.>*******
+17-03-2023 10:47:51---Messages--:Import data in database table from excel:         *******<4.>*******
+17-03-2023 10:47:51---Messages--:Success:- File move successfully: *******<5.>*******
+17-03-2023 10:47:51---Messages--:Sending mail method call:         *******<6.>*******
+17-03-2023 12:16:26---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 12:16:26---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 12:16:26---Messages--:            ****** START *******: Download file from SFTP Server
+17-03-2023 12:17:04---Messages--:****************************: ################NEW CONNECTION###############***********************
+17-03-2023 12:17:04---Messages--:Connected With   : Database :- TVI_PilotCompany
+17-03-2023 12:17:04---Messages--:            ****** START *******: Download file from SFTP Server
+17-03-2023 12:18:08---Messages--:*******START*******: Move file into Archive folder SFTP server

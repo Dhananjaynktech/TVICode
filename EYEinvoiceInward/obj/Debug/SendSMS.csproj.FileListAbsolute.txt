@@ -1,0 +1,14 @@
+D:\bizAlert_Scheduler\obj\Debug\SendSMS.csproj.GenerateResource.Cache
+D:\bizAlert_Scheduler\bin\Debug\SendSMS.exe
+D:\bizAlert_Scheduler\bin\Debug\SendSMS.pdb
+D:\bizAlert_Scheduler\obj\Debug\SendSMS.Properties.Resources.resources
+D:\bizAlert_Scheduler\obj\Debug\SendSMS.exe
+D:\bizAlert_Scheduler\obj\Debug\SendSMS.pdb
+D:\bizAlert_Scheduler\obj\Debug\SendSMS.csprojResolveAssemblyReference.cache
+F:\bizAlert_Scheduler\obj\Debug\SendSMS.exe
+F:\bizAlert_Scheduler\obj\Debug\SendSMS.pdb
+F:\bizAlert_Scheduler\bin\Debug\SendSMS.exe
+F:\bizAlert_Scheduler\bin\Debug\SendSMS.pdb
+F:\bizAlert_Scheduler\obj\Debug\SendSMS.csprojResolveAssemblyReference.cache
+F:\bizAlert_Scheduler\obj\Debug\SendSMS.Properties.Resources.resources
+F:\bizAlert_Scheduler\obj\Debug\SendSMS.csproj.GenerateResource.Cache

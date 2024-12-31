@@ -1,0 +1,36 @@
+1/25/2023 2:56:11 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/25/2023 2:56:11 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/25/2023 2:56:11 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/25/2023 3:08:45 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/25/2023 3:08:45 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+1/25/2023 3:08:45 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/25/2023 3:09:03 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/25/2023 3:09:03 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+1/25/2023 3:09:03 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/25/2023 3:09:06 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/25/2023 3:09:08 PM---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+1/25/2023 3:09:08 PM---Messages--:Read CSV file and insert data into temp table:    *******<3.>*******
+1/25/2023 3:09:08 PM---Messages--:Import data in database table from excel:         *******<4.>*******
+1/25/2023 3:09:09 PM---Messages--:Duplicate Data or No Data found: -------
+1/25/2023 3:09:09 PM---Messages--:Success:- File move successfully: *******<5.>*******
+1/25/2023 3:09:09 PM---Messages--:Sending mail method call:         *******<6.>*******
+1/25/2023 3:09:28 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/25/2023 3:09:28 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+1/25/2023 3:09:28 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/25/2023 3:09:32 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/25/2023 3:09:33 PM---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+1/25/2023 3:09:33 PM---Messages--:Read CSV file and insert data into temp table:    *******<3.>*******
+1/25/2023 3:09:34 PM---Messages--:Import data in database table from excel:         *******<4.>*******
+1/25/2023 3:09:34 PM---Messages--:Duplicate Data or No Data found: -------
+1/25/2023 3:09:34 PM---Messages--:Success:- File move successfully: *******<5.>*******
+1/25/2023 3:09:34 PM---Messages--:Sending mail method call:         *******<6.>*******
+1/25/2023 3:10:07 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/25/2023 3:10:07 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+1/25/2023 3:10:07 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/25/2023 3:10:29 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/25/2023 3:10:46 PM---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+1/25/2023 3:11:00 PM---Messages--:Read CSV file and insert data into temp table:    *******<3.>*******
+1/25/2023 3:11:29 PM---Messages--:Import data in database table from excel:         *******<4.>*******
+1/25/2023 3:11:29 PM---Messages--:Duplicate Data or No Data found: -------
+1/25/2023 3:11:38 PM---Messages--:Success:- File move successfully: *******<5.>*******
+1/25/2023 3:11:48 PM---Messages--:Sending mail method call:         *******<6.>*******

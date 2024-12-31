@@ -1,0 +1,79 @@
+1/13/2023 3:59:16 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/13/2023 3:59:16 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/13/2023 3:59:16 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/13/2023 3:59:21 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/13/2023 4:01:01 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/13/2023 4:01:01 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/13/2023 4:01:01 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/13/2023 4:01:03 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/13/2023 4:01:29 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/13/2023 4:01:35 PM---Messages--:-#####--Claim ID:- 2049408: -------#####--Employee ID:- 2049--------
+1/13/2023 4:01:35 PM---Messages--:-#####--Claim ID:- 2049408: -------#####--Employee ID:- 2049--------
+1/13/2023 4:01:35 PM---Messages--:-#####--Claim ID:- 2049408: -------#####--Employee ID:- 2049--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2072855: -------#####--Employee ID:- 2049--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2113366: -------#####--Employee ID:- 2049--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2113366: -------#####--Employee ID:- 2049--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2123084: -------#####--Employee ID:- 2049--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2079556: -------#####--Employee ID:- 2084--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2058346: -------#####--Employee ID:- Dummy2--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2036616: -------#####--Employee ID:- Dummy2--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2058361: -------#####--Employee ID:- Dummy2--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2079157: -------#####--Employee ID:- Dummy2--------
+1/13/2023 4:01:36 PM---Messages--:-#####--Claim ID:- 2038042: -------#####--Employee ID:- Dummy4--------
+1/13/2023 4:01:36 PM---Messages--:Adding Success Factor: -------
+1/13/2023 4:01:37 PM---Messages--:Success Factor is added successfully: -------------------
+1/13/2023 4:01:37 PM---Messages--:Success:- File move successfully:: *******<4.>*******
+1/13/2023 4:01:37 PM---Messages--:Sending mail method call:          *******<5.>*******
+1/13/2023 4:06:42 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/13/2023 4:06:42 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/13/2023 4:06:42 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/13/2023 4:06:45 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/13/2023 4:06:59 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/13/2023 4:07:00 PM---Messages--:Success:- File move successfully:: *******<4.>*******
+1/13/2023 4:07:02 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/13/2023 4:15:44 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/13/2023 4:15:44 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/13/2023 4:15:44 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/13/2023 4:15:47 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/13/2023 4:16:21 PM---Messages--:Error:- File move successfully:: *******<6.>*******
+1/13/2023 4:17:51 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/13/2023 4:17:51 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/13/2023 4:17:51 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/13/2023 4:17:54 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/13/2023 4:18:12 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/13/2023 4:18:14 PM---Messages--:-#####--Claim ID:- 2049408: -------#####--Employee ID:- 2049--------
+1/13/2023 4:18:14 PM---Messages--:-#####--Claim ID:- 2049408: -------#####--Employee ID:- 2049--------
+1/13/2023 4:18:14 PM---Messages--:-#####--Claim ID:- 2049408: -------#####--Employee ID:- 2049--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2072855: -------#####--Employee ID:- 2049--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2113366: -------#####--Employee ID:- 2049--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2113366: -------#####--Employee ID:- 2049--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2123084: -------#####--Employee ID:- 2049--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2079556: -------#####--Employee ID:- 2084--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2058346: -------#####--Employee ID:- Dummy2--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2036616: -------#####--Employee ID:- Dummy2--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2058361: -------#####--Employee ID:- Dummy2--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2079157: -------#####--Employee ID:- Dummy2--------
+1/13/2023 4:18:15 PM---Messages--:-#####--Claim ID:- 2038042: -------#####--Employee ID:- Dummy4--------
+1/13/2023 4:18:15 PM---Messages--:Adding Success Factor: -------
+1/13/2023 4:18:15 PM---Messages--:Success Factor is added successfully: -------------------
+1/13/2023 4:18:17 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/13/2023 4:18:19 PM---Messages--:Sending mail method call:         *******<5.>*******
+1/13/2023 5:45:55 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/13/2023 5:45:55 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/13/2023 5:45:55 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/13/2023 5:46:00 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/13/2023 5:46:06 PM---Messages--:Import data in database table from excel:    *******<3.>*******
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 20494081: -------#####--Employee ID:- 2049--------
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 20494081: -------#####--Employee ID:- 2049--------
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 20728551: -------#####--Employee ID:- 2049--------
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 21133661: -------#####--Employee ID:- 2049--------
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 21133661: -------#####--Employee ID:- 2049--------
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 21230841: -------#####--Employee ID:- 2049--------
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 20795561: -------#####--Employee ID:- 2084--------
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 20583461: -------#####--Employee ID:- Dummy2--------
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 20366161: -------#####--Employee ID:- Dummy2--------
+1/13/2023 5:46:13 PM---Messages--:-#####--Claim ID:- 20583611: -------#####--Employee ID:- Dummy2--------
+1/13/2023 5:46:13 PM---Messages--:Adding Success Factor: -------
+1/13/2023 5:46:14 PM---Messages--:Success Factor is added successfully: -------------------
+1/13/2023 5:46:14 PM---Messages--:Success:- File move successfully: *******<4.>*******
+1/13/2023 5:46:14 PM---Messages--:Sending mail method call:         *******<5.>*******

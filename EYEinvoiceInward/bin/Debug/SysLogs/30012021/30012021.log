@@ -1,0 +1,38 @@
+1/30/2021 8:14:29 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/30/2021 8:14:29 PM---Messages--:Connected With   : Database :- Z_Test_Company_20_01_2021
+1/30/2021 8:15:02 PM---Messages--:-#####--Claim ID:- 45387: -------#####--Success Factor ID:- 1826--------
+1/30/2021 8:15:02 PM---Messages--:-#####--Claim ID:- 45386: -------#####--Success Factor ID:- 1826--------
+1/30/2021 8:15:02 PM---Messages--:-#####--Claim ID:- 45382: -------#####--Success Factor ID:- 1826--------
+1/30/2021 8:15:02 PM---Messages--:-#####--Claim ID:- 45215: -------#####--Success Factor ID:- 1810--------
+1/30/2021 8:15:02 PM---Messages--:-#####--Claim ID:- 45213: -------#####--Success Factor ID:- 1810--------
+1/30/2021 8:15:02 PM---Messages--:-#####--Claim ID:- 44963: -------#####--Success Factor ID:- 1626--------
+1/30/2021 8:15:02 PM---Messages--:Adding Success Factor: -------
+1/30/2021 8:15:10 PM---Messages--:Success Factor is added successfully: -------------------
+1/30/2021 8:21:01 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/30/2021 8:21:01 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+1/30/2021 8:21:32 PM---Messages--:-#####--Claim ID:- 45387: -------#####--Success Factor ID:- 1826--------
+1/30/2021 8:21:32 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:32 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:32 PM---Messages--:-#####--Claim ID:- 45386: -------#####--Success Factor ID:- 1826--------
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:-#####--Claim ID:- 45382: -------#####--Success Factor ID:- 1826--------
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:-#####--Claim ID:- 45215: -------#####--Success Factor ID:- 1810--------
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:-#####--Claim ID:- 45213: -------#####--Success Factor ID:- 1810--------
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:-#####--Claim ID:- 44963: -------#####--Success Factor ID:- 1626--------
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:ToDate: Index was outside the bounds of the array.
+1/30/2021 8:21:33 PM---Messages--:Adding Success Factor: -------
+1/30/2021 8:21:38 PM---Messages--:Success Factor is added successfully: -------------------
+1/30/2021 8:22:28 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/30/2021 8:22:28 PM---Messages--:Connected With   : Database :- TVI_PilotCompany
+1/30/2021 8:22:34 PM---Messages--:Adding Success Factor: -------
+1/30/2021 8:22:38 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/30/2021 8:22:39 PM---Messages--:ExecuteDataSet: Incorrect syntax near 'VALUES'.
+1/30/2021 8:22:39 PM---Messages--:Success Factor is added successfully: -------------------

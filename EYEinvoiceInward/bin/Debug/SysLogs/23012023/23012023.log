@@ -1,0 +1,32 @@
+1/23/2023 1:09:55 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/23/2023 1:09:55 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/23/2023 1:09:55 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/23/2023 1:10:01 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/23/2023 1:10:05 PM---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+1/23/2023 1:10:05 PM---Messages--:Read CSV file and insert data into temp table:    *******<3.>*******
+1/23/2023 1:10:05 PM---Messages--:Import data in database table from excel:    *******<4.>*******
+1/23/2023 1:10:05 PM---Messages--:Duplicate Data or No Data found: -------
+1/23/2023 1:10:05 PM---Messages--:Success:- File move successfully: *******<5.>*******
+1/23/2023 1:10:05 PM---Messages--:Sending mail method call:         *******<6.>*******
+1/23/2023 1:10:58 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/23/2023 1:10:58 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/23/2023 1:10:58 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/23/2023 1:11:03 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/23/2023 1:11:05 PM---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+1/23/2023 1:11:05 PM---Messages--:Read CSV file and insert data into temp table:    *******<3.>*******
+1/23/2023 1:11:07 PM---Messages--:Import data in database table from excel:         *******<4.>*******
+1/23/2023 1:11:08 PM---Messages--:Duplicate Data or No Data found: -------
+1/23/2023 1:11:08 PM---Messages--:Success:- File move successfully: *******<5.>*******
+1/23/2023 1:11:08 PM---Messages--:Sending mail method call:         *******<6.>*******
+1/23/2023 1:12:17 PM---Messages--:****************************: ################NEW CONNECTION###############***********************
+1/23/2023 1:12:17 PM---Messages--:Connected With   : Database :- ZFAR_TEST_19_01_2022
+1/23/2023 1:12:17 PM---Messages--:Download file from SFTP Server:              *******<1.>*******
+1/23/2023 1:12:22 PM---Messages--:Move file into Archive folde ob SFTP server: *******<2.>*******
+1/23/2023 1:12:24 PM---Messages--:**ERROR:- When move from Current SFTP folder into Archive folder: *******##########*******
+1/23/2023 1:12:24 PM---Messages--:Read CSV file and insert data into temp table:    *******<3.>*******
+1/23/2023 1:12:25 PM---Messages--:Import data in database table from excel:         *******<4.>*******
+1/23/2023 1:12:26 PM---Messages--:-#####--Claim ID:- Tra/Human Resources/20230120/2077/142541/E2: -------#####--Employee ID:- 2077--------
+1/23/2023 1:12:26 PM---Messages--:Adding Success Factor: -------
+1/23/2023 1:12:30 PM---Messages--:Success Factor is added successfully: -------------------
+1/23/2023 1:12:30 PM---Messages--:Success:- File move successfully: *******<5.>*******
+1/23/2023 1:12:30 PM---Messages--:Sending mail method call:         *******<6.>*******
